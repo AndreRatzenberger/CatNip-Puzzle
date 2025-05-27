@@ -1,0 +1,6 @@
+{
+  "name": "CatNip Puzzle",
+  "short_name": "CatNip",
+  "start_url": ".",
+  "display": "standalone"
+}
